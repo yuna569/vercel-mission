@@ -8,7 +8,7 @@ interface StoreState {
 
 const initialState: Pick<StoreState, "store"> = {
     store: {
-        id: '0',
+        id: 0,
         name: "",
         rate: 0.0,
         reviewCnt: 0,
