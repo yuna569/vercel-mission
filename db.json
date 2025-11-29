@@ -99,73 +99,73 @@
   "categories": [
     {
       "name": "피자",
-      "imgPath": "/src/assets/pizza.svg",
+      "imgPath": "/icons/pizza.svg",
       "path": "pizza",
       "id": "1c26"
     },
     {
       "name": "샐러드",
-      "imgPath": "/src/assets/salad.svg",
+      "imgPath": "/icons/salad.svg",
       "path": "salad",
       "id": "ca95"
     },
     {
       "name": "햄버거",
-      "imgPath": "/src/assets/hamburger.svg",
+      "imgPath": "/icons/hamburger.svg",
       "path": "hamburger",
       "id": "364e"
     },
     {
       "name": "한식",
-      "imgPath": "/src/assets/korean.svg",
+      "imgPath": "/icons/korean.svg",
       "path": "korean",
       "id": "0b87"
     },
     {
       "name": "분식",
-      "imgPath": "/src/assets/snack.svg",
+      "imgPath": "/icons/snack.svg",
       "path": "snack",
       "id": "220c"
     },
     {
       "name": "치킨",
-      "imgPath": "/src/assets/chicken.svg",
+      "imgPath": "/icons/chicken.svg",
       "path": "chicken",
       "id": "41a5"
     },
     {
       "name": "초밥",
-      "imgPath": "/src/assets/sushi.svg",
+      "imgPath": "/icons/sushi.svg",
       "path": "sushi",
       "id": "c5e2"
     },
     {
       "name": "샌드위치",
-      "imgPath": "/src/assets/sandwich.svg",
+      "imgPath": "/icons/sandwich.svg",
       "path": "sandwich",
       "id": "9bd8"
     },
     {
       "name": "파스타",
-      "imgPath": "/src/assets/pasta.svg",
+      "imgPath": "/icons/pasta.svg",
       "path": "pasta",
       "id": "d095"
     },
     {
       "name": "디저트",
-      "imgPath": "/src/assets/dessert.svg",
+      "imgPath": "/icons/dessert.svg",
       "path": "dessert",
       "id": "85dc"
     },
     {
       "name": "커피",
-      "imgPath": "/src/assets/coffee.svg",
+      "imgPath": "/icons/coffee.svg",
       "path": "coffee",
       "id": "8353"
     },
     {
       "name": "더보기",
-      "imgPath": "/src/assets/etc.svg",
+      "imgPath": "/icons/etc.svg",
       "path": "etc",
       "id": "3cc5"
     }
