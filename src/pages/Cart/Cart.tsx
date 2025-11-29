@@ -129,7 +129,7 @@ const CartHeader = ({
       ) : (
         <span className="text-[15px] text-[#F04452] font-[500] font-pretendard flex flex-row items-center gap-[0.3rem]">
           최소금액 미달
-          <img src="/src/assets/warning.svg" />
+          <img src="/icons/warning.svg" />
         </span>
       )}
     </div>

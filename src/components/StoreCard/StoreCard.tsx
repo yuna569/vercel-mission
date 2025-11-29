@@ -10,7 +10,7 @@ const StoreCard = ({store}: {store: IStore}) => {
             <div className="flex flex-col items-start">
                 <p className="inline-block text-[17px] font-[600] p-[0px] m-[0px] font-pretendard">{store.id <= 3 ? store.id + "위" : ""}</p>
                 <p className="inline-block text-[17px] font-[600] p-[0px] m-[0px]">{store.name}</p>
-                <p className="inline-block text-[13px] font-[500] p-[0px] m-[0px]"><img src="/src/assets/star.svg"/>{store.rate} ({store.reviewCnt})</p>
+                <p className="inline-block text-[13px] font-[500] p-[0px] m-[0px]"><img src="/icons/star.svg"/>{store.rate} ({store.reviewCnt})</p>
                 <p className="inline-block text-[13px] font-[500] p-[0px] m-[0px]">{store.minDeliveryTime}분~{store.maxDeliveryTime}분 ∙ 배달비 {store.deliveryFee}원</p>
             </div>
         </div>

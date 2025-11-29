@@ -19,7 +19,7 @@ const OrderItem = ({menu, options, additionalFee, count}:OrderMenu) => {
       </div>
       <button className="appearance-none bg-transparent border-none p-0 m-0 outline-none focus:outline-none active:outline-none cursor-pointer flex items-center gap-1">
         <span className="text-[#000000]">{count}개</span>
-        <img src="/src/assets/more.svg" className="w-[16px] h-[16px]"></img>
+        <img src="/icons/more.svg" className="w-[16px] h-[16px]" />
       </button>
     </div>
   )
